@@ -1,4 +1,4 @@
-### NADIR Oumaima
+# Hi there, I'm Oumaima! <img width="60px" src="./doc/paw-waving-cropped.webp" />
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/80c31342301504b079e7e2079a06b4be/31d95c5beb381ec8-d6/s500x750/6e1776a8577a911ddc3c17c95a4b033d532804ca.gifv" width="500"/>
 </div>
